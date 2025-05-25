@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mndiw\\OneDrive\\Desktop\\Life Man\\Projects\\2D Practicing\\Calendar App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A612833-8AA0-4F2E-9020-D7672DCCEDF5}|Calendar App\\Calendar App.csproj|c:\\users\\mndiw\\onedrive\\desktop\\life man\\projects\\2d practicing\\calendar app\\calendar app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A612833-8AA0-4F2E-9020-D7672DCCEDF5}|Calendar App\\Calendar App.csproj|solutionrelative:calendar app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A612833-8AA0-4F2E-9020-D7672DCCEDF5}|Calendar App\\Calendar App.csproj|c:\\users\\mndiw\\onedrive\\desktop\\life man\\projects\\2d practicing\\calendar app\\calendar app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A612833-8AA0-4F2E-9020-D7672DCCEDF5}|Calendar App\\Calendar App.csproj|solutionrelative:calendar app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mndiw\\OneDrive\\Desktop\\Life Man\\Projects\\2D Practicing\\Calendar App\\Calendar App\\Form1.cs",
+              "RelativeDocumentMoniker": "Calendar App\\Form1.cs",
+              "ToolTip": "C:\\Users\\mndiw\\OneDrive\\Desktop\\Life Man\\Projects\\2D Practicing\\Calendar App\\Calendar App\\Form1.cs",
+              "RelativeToolTip": "Calendar App\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:10:31.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mndiw\\OneDrive\\Desktop\\Life Man\\Projects\\2D Practicing\\Calendar App\\Calendar App\\Form1.cs",
+              "RelativeDocumentMoniker": "Calendar App\\Form1.cs",
+              "ToolTip": "C:\\Users\\mndiw\\OneDrive\\Desktop\\Life Man\\Projects\\2D Practicing\\Calendar App\\Calendar App\\Form1.cs [Design]",
+              "RelativeToolTip": "Calendar App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:05:49.192Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

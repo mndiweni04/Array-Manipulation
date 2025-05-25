@@ -1,0 +1,10 @@
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\bin\Debug\3D Array TimeTable.exe.config
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\bin\Debug\3D Array TimeTable.exe
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\bin\Debug\3D Array TimeTable.pdb
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\3D Array TimeTable.csproj.AssemblyReference.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\_3D_Array_TimeTable.Form1.resources
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\_3D_Array_TimeTable.Properties.Resources.resources
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\3D Array TimeTable.csproj.GenerateResource.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\3D Array TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\3D Array TimeTable.exe
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\3D Practicing\3D Array TimeTable\3D Array TimeTable\obj\Debug\3D Array TimeTable.pdb

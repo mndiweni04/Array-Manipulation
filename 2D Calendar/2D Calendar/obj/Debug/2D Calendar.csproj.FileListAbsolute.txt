@@ -1,0 +1,7 @@
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\bin\Debug\2D Calendar.exe.config
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\bin\Debug\2D Calendar.exe
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\bin\Debug\2D Calendar.pdb
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\obj\Debug\2D Calendar.csproj.AssemblyReference.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\obj\Debug\2D Calendar.csproj.CoreCompileInputs.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\obj\Debug\2D Calendar.exe
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\2D Calendar\2D Calendar\obj\Debug\2D Calendar.pdb

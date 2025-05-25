@@ -1,0 +1,10 @@
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\bin\Debug\Calendar App.exe.config
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\bin\Debug\Calendar App.exe
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\bin\Debug\Calendar App.pdb
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar App.csproj.AssemblyReference.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar_App.Form1.resources
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar_App.Properties.Resources.resources
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar App.csproj.GenerateResource.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar App.csproj.CoreCompileInputs.cache
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar App.exe
+C:\Users\mndiw\OneDrive\Desktop\Life Man\Projects\2D Practicing\Calendar App\Calendar App\obj\Debug\Calendar App.pdb
